@@ -13,6 +13,7 @@ NOTACION DE BAKUS-NAUR
 - c+alt+: bajar al escritorio
 - win+espacio: cambiar idioma
 - win+↑:Maximizar ventana
+
 #TEXTO
 - control ++: ampliar la fuente
 - control +-: reducir
@@ -37,3 +38,4 @@ NOTACION DE BAKUS-NAUR
 - control + l: borrar la pantalla
 - control + d final de linea
 y luego tenemos readline
+

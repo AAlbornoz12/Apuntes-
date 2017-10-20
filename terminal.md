@@ -6,5 +6,7 @@
 - &lt;: redirigir la entrada.
 - &lt;&lt;: Hare documento.
 - &lt;&lt;&lt;:: Hare string.
-
-
+## metacaracteres
+- ~. mi directorio Home	
+- : directorio actual
+- .. directorio de arriba
